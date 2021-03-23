@@ -44,6 +44,6 @@ public class Geometry {
 
 			Integer L1= Integer.valueOf(Len1);
 			Integer L2= Integer.valueOf(Len2);
-			System.out.println(L1.equals(L2));
+			System.out.println(L1.compareTo(L2));
 	}
 }
