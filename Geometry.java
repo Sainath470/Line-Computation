@@ -32,7 +32,7 @@ public class Geometry {
 
 
 		 	System.out.print( "("+p1+","+q1+")" );
-		 	System.out.print( "("+p1+","+q1+")" );
+		 	System.out.print( "("+p2+","+q2+")" );
 
 
 
